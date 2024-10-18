@@ -1,0 +1,15 @@
+# Ignore configuration folder
+configuration/
+
+# Ignore test files
+test_*.py
+*_test.py
+test.py
+tests/
+
+# Ignore .venv folder
+.venv/
+
+# Ignore pycharm folder
+.idea/
+.__pycache__/
