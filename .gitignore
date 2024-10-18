@@ -12,4 +12,6 @@ tests/
 
 # Ignore pycharm folder
 .idea/
-.__pycache__/
+
+# Ignore __pycache__ folder
+__pycache__/
